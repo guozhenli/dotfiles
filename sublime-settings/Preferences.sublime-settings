@@ -12,4 +12,5 @@
     "rulers": [80, 120],
     "show_encoding": true,
     "show_line_endings": true,
+    "preview_on_click": false,
 }
