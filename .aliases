@@ -148,3 +148,7 @@ alias reload="exec ${SHELL} -l"
 
 # Print each PATH entry on a separate line
 alias path='echo -e ${PATH//:/\\n}'
+
+# Show directory and file sizes in cwd. Useful when trying to find who's taking so much space.
+# Add option -r to show in reverse order
+alias huge='du -sh * | sort -h'
