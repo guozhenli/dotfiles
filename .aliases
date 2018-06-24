@@ -10,11 +10,6 @@
 
 # Shortcuts
 alias dl="cd ~/Downloads"
-alias bx="cd ~/Box"
-alias dbx="cd ~/Dropbox"
-alias lrn="cd ~/Dropbox/Learn"
-alias prj="cd ~/Dropbox/Projects"
-alias dst="cd ~/Dropbox/PHD\ Dissertation/"
 alias dt="cd ~/Desktop"
 alias g="git"
 alias jnb='jupyter notebook'

@@ -13,5 +13,6 @@ Thumbs.db
 .Spotlight-V100
 .Trashes
 
-# Hide .path
+# Hide files you don't want to commit & push
 .path
+.extra
